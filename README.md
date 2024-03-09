@@ -11,5 +11,4 @@ fitglobe/fitglobe is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![fitglobelogo](https://github.com/fitglobe/fitglobe/assets/162820872/107a576c-cbfd-46c1-a57e-2fe24b7df5fd)
+![fitglobelogo-removebg-preview (1)](https://github.com/fitglobe/fitglobe/assets/162820872/78e05759-f44e-4219-be5d-4008f66142ac)
